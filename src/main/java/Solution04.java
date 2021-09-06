@@ -31,6 +31,6 @@ public class Solution04 {
         words.add(input.nextLine());
 
         // output story
-        System.out.printf("Do you %s your %s %s %s? That's hilarious!", words.get(0), words.get(1), words.get(2), words.get(3));
+        System.out.printf("Do you %s your %s %s %s? That's hilarious!", words.get(1), words.get(2), words.get(0), words.get(3));
     }
 }
